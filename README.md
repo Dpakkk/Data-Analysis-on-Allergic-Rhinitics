@@ -8,6 +8,7 @@ Process involved in this analysis:
 ### Data Transformation
 * The  raw  data  was  then  imported  into  Excel.Since raw data were in the format of 2 or 1 exceptfor age, which was continuous data.  For gettingan efficient format, the dataset was transposed to0 for 2 and 1 for 1
 ### Explatory Data Analysis
+Here is some visualization of the Analysis including the EDA.
 ![alt text](https://github.com/Dpakkk/Data-Analysis-on-Allergic-Rhinitics/blob/master/eda.png)
 
 ### Feature Selection
