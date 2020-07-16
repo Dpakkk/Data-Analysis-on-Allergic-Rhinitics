@@ -15,7 +15,7 @@ Here is the visualization part of the Analysis including the EDA.
 
 ### Validation and
 ### Accuracy Testing
- A Research paper was also written based on this Analysis.
+ A Research paper was also written based on this Data Analysis.
  
  Summary of the Analysis:
  This project investigates the relationship between Skin Prick Test(SPT) with twenty-six allergens among the patients of Allergic Rhinitis(AR) from the Kavrepalanchok district of Nepal.
